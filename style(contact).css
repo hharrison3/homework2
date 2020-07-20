@@ -2,8 +2,17 @@
     background-color: teal;
     color: white;
     text-align: center;
+    font-size: large;
 }
 .top {
     line-height: 50px;
     margin: 0 auto;
+}
+.main-box{
+    background-color:gray;
+    margin: 0 auto;
+    color: white;
+}
+html{
+    background: tan;
 }
