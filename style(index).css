@@ -1,0 +1,28 @@
+.nav-top{
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+.top {
+    line-height: 50px;
+    margin: 0 auto;
+}
+.main-box{
+    background-color:gray;
+    margin: 0 auto;
+    color: white;
+}
+img{
+    line-height: 100px;
+    width: 125px;
+}
+.image-div {
+    float: left;
+    margin-right: 25px;
+}
+html{
+    background: tan;
+}
+p {
+    display: inline;
+}
