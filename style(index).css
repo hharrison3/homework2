@@ -9,11 +9,12 @@
     margin: 0 auto;
 }
 .main-box{
-    background-color:gray;
+    background-color: teal;
     margin: 0 auto;
     color: white;
     margin-bottom: 30px;
     margin-top: 30px;
+    padding-bottom: 5px;
 }
 img{
     line-height: 100px;
@@ -24,11 +25,11 @@ img{
     margin-right: 25px;
 }
 html{
-    background: tan;
+    background-image: url('https://www.photohdx.com/images/2016/11/clean-white-grey-paper-background.jpg');
 }
 p {
     display: inline;
 }
-a {
+.main a {
     color: lightblue;
 }

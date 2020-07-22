@@ -9,10 +9,11 @@
     margin: 0 auto;
 }
 .main-box{
-    background-color:gray;
+    background-color:teal;
     margin: 0 auto;
     color: white;
+    padding-bottom: 15px;
 }
 html{
-    background: tan;
+    background-image: url('https://www.photohdx.com/images/2016/11/clean-white-grey-paper-background.jpg');
 }
