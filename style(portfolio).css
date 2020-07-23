@@ -19,3 +19,9 @@ footer{
     border-width: 10px;
     text-align: center;
 }
+.first{
+    float: right;
+}
+.third{
+    float: right;
+}
