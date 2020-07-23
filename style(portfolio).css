@@ -8,3 +8,14 @@
     line-height: 50px;
     margin: 0 auto;
 }
+.main-box{
+    background-color: teal;
+    margin: 0 auto;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 5px;
+}
+html{
+    background-image: url('https://www.photohdx.com/images/2016/11/clean-white-grey-paper-background.jpg');
+}
