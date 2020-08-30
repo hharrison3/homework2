@@ -25,3 +25,6 @@ footer{
 .third{
     float: right;
 }
+img {
+    border-bottom: 1px solid black;
+}
