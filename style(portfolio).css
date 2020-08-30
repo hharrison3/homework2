@@ -19,13 +19,14 @@ footer{
     border-width: 10px;
     text-align: center;
 }
-.first{
-    float: right;
-}
-.third{
-    float: right;
+.cards {
+    margin: 0 auto;
 }
 img {
     border-bottom: 1px solid black;
     height: 250px;
+}
+.card {
+    margin-left: 5px;
+    margin-top: 10px;
 }
